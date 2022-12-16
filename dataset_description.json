@@ -1,0 +1,20 @@
+{
+	"Name":"PRIOS",
+	"BIDSVersion":"Brain Imaging Data Structure Specification v1.6.0",
+	"License":"This dataset is made available under the Public Domain Dedication and License CC v1.0, whose full text can be found at https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/. We hope that all users will follow the ODC Attribution\/Share-Alike Community Norms (http:\/\/www.opendatacommons.org\/norms\/odc-by-sa\/); in particular, while not legally required, we hope that all users of the data will acknowledge by citing Demuru M, van Blooijs D, Zweiphenning W, Hermes D, Leijten F, Zijlmans M, on behalf of the RESPect group. “A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS”. Submitted to NeuroInformatics in 2020 in any publications.",
+	"Authors":[
+		"Blok S.",
+		"van Blooijs D.",
+		"Huiskamp G.J.M.",
+		"Leijten F.S.S."
+	],
+	"Acknowledgements":"persons to acknowledge",
+	"HowToAcknowledge":"Demuru M., van Blooijs D., Zweiphenning W. et al 2021, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
+	"Funding":[
+		"EpilepsieNL #17-07"
+	],
+	"ReferencesAndLinks":[
+		"see HowToAcknowledge"
+	],
+	"DatasetDOI":"DOI of the dataset if online"
+}
