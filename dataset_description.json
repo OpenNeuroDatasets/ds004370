@@ -3,10 +3,10 @@
     "BIDSVersion": "Brain Imaging Data Structure Specification v1.6.0",
     "License": "CC0",
     "Authors": [
-        "Leijten FSS",
-        "Huiskamp GJM",
+        "van Blooijs D",
         "Blok S",
-        "van Blooijs D"
+        "Huiskamp GJM",
+        "Leijten FSS"
     ],
     "Acknowledgements": "persons to acknowledge",
     "HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2021, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
