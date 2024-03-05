@@ -1,0 +1,10 @@
+{
+	"filename": "name of the file",
+	"acq_time": "acquisition time",
+	"artefact": "number of artefacts annotated",
+	"seizure_total": "total number of seizures",
+	"seizure_clinical": "total number of seizures with clinical symptoms visible in the video",
+	"seizure_subclinical": "total number of seizures with no clinical symptoms visible in the video",
+	"spes": "total number of electrical stimuli with Single Pulse Electrical Stimulation (0.2 Hz, 1000 us, 4-8mA, monophasic)",
+	"burst_suppression": "number of periods with annotated burst suppression"
+}
