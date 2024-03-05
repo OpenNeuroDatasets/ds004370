@@ -1,4 +1,0 @@
-filename	acq_time	artefact	seizure_total	seizure_clinical	seizure_subclinical	spes	burst_suppression
-ieeg/sub-PRIOS02_ses-1_task-SPESclin_run-021417_ieeg.eeg	1900-01-02T14:17:04	16	0	0	0	491	0
-ieeg/sub-PRIOS02_ses-1_task-SPESclin_run-021506_ieeg.eeg	1900-01-02T15:06:42	4	0	0	0	121	0
-ieeg/sub-PRIOS02_ses-1_task-SPESprop_run-080819_ieeg.eeg	1900-01-08T08:19:48	43	0	0	0	246	1
